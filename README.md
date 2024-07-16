@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ### My Goal
 <p style="font-size: 18px; line-height: 1.6; color: #333;">
-    I am a university student aiming to become a full-stack developer.
+    I am a University student aiming to become a <strong>FULL-STACK</strong> Developer.
 </p>
 
 ### My Tech Stack
@@ -61,10 +61,6 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<div>
-  [![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=grey)](https://github.com/SeHIgh/github-readme-stats)
-</div>
+[![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=grey)](https://github.com/SeHIgh/github-readme-stats)
 
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=grey)  
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=grey)  
