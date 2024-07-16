@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### My Tech Stack
-<ul style="font-size: 18px; line-height: 1.6; color: #333;">
+<ul style="font-size: 18px; line-height: 1.6; color: #333; list-style: none;">
     <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><</li>
     <li>CSS</li>
     <li>JavaScript</li>
