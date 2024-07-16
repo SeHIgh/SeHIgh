@@ -40,9 +40,12 @@ You can click the Preview link to take a look at your changes.
 
 ### Currently Learning
 <ul style="font-size: 18px; line-height: 1.6; color: #333;">
-    <li>React</li>
-    <li>Databases</li>
-    <li>AI</li>
+    <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
+    <li><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
+    <li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></li>
 </ul>
 
 ### About Me
@@ -52,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Contact
 <p style="font-size: 18px; line-height: 1.6; color: #333;">
-    You can reach me at ~.
+    You can reach me : sehi0119@naver.com
 </p>
 
 <p style="font-size: 18px; line-height: 1.6; color: #333;">
