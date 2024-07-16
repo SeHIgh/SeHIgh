@@ -22,13 +22,13 @@ You can click the Preview link to take a look at your changes.
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
 
-## My Goal
+## 🏆 My Goal
 <p style="font-size: 18px; line-height: 1.6; color: #333;">
     I am a University student aiming to become a <strong>FULL-STACK</strong> Developer.
 </p>
 
-## My Skills
-### CODE
+## ⚙️ My Skills
+### 💻 CODE
 #### 1. Programing Languages :
 <ul style="font-size: 18px; line-height: 1.6; color: #333; display: flex; flex-direction: row; justify-content: space-around;">
     <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></li>
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
     <li><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></li>
 </ul>
 
-### Practical
+### 🗂️ Practical
 <ul style="font-size: 18px; line-height: 1.6; color: #333;">
     <li><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></li>
     <li><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/></li>
