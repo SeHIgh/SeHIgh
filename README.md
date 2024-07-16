@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 <h1>
   👋 Hello~! I'm sehigh
 </h1>
-<h2>
+<p style = "font-size : 20px" >
   Let me introduce myself
-</h2>
+</p>
 
 <p>I am a university student aiming to become a **full-stack** developer.</p>
 <p>💻 My current tech stack includes HTML, CSS, JavaScript, Node.js, Python, C, and Java.</p>
