@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 
-### Contact
+## ☏ Contact
 [<img src="https://img.shields.io/badge/Naver-03C360?style=for-the-badge&logo=naver&logoColor=white"/>](sehi0119@naver.com)
 
 </div>
