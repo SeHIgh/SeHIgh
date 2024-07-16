@@ -22,12 +22,35 @@ You can click the Preview link to take a look at your changes.
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
 
-### My Goal
+## My Goal
 <p style="font-size: 18px; line-height: 1.6; color: #333;">
     I am a University student aiming to become a <strong>FULL-STACK</strong> Developer.
 </p>
 
-### My Tech Stack
+## My Skills
+### CODE
+#### 1. Programing Languages :
+<ul style="font-size: 18px; line-height: 1.6; color: #333;">
+    <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></li>
+</ul>
+#### 2. Web Development :
+<ul style="font-size: 18px; line-height: 1.6; color: #333;">
+    <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"/></li>
+</ul>
+#### 3. Database Management :
+<ul style="font-size: 18px; line-height: 1.6; color: #333;">
+    <li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></li>
+</ul>
+#### 4. Version Control :
+<ul style="font-size: 18px; line-height: 1.6; color: #333;">
+    <li><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></li>
+</ul>
+### Practical
 <ul style="font-size: 18px; line-height: 1.6; color: #333;">
     <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></li>
     <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></li>
@@ -42,10 +65,17 @@ You can click the Preview link to take a look at your changes.
 <ul style="font-size: 18px; line-height: 1.6; color: #333;">
     <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
     <li><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
-    <li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></li>
     <li><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></li>
-    <li><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></li>
+</ul>
+
+### Future Learning
+<ul style="font-size: 18px; line-height: 1.6; color: #333;">
+    <li><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></li>
+    <li><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></li>
+    
 </ul>
 
 ### About Me
