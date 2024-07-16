@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Contact
 <p>
-    You can reach me : sehi0119@naver.com
+    You can reach me : (sehi0119@naver.com)
 </p>
 
 <p>
