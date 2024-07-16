@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ## My Skills
 ### CODE
 #### 1. Programing Languages :
-<ul style="font-size: 18px; line-height: 1.6; color: #333;">
+<ul style="font-size: 18px; line-height: 1.6; color: #333; display: flex; flex-direction: row; justify-content: space-around;">
     <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></li>
     <li><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></li>
     <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></li>
