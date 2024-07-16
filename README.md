@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-[![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=grey)](https://github.com/SeHIgh/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=grey)  
+### Git Stats
+[![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=graydark)](https://github.com/SeHIgh/github-readme-stats)
+### Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=graydark)  
