@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1>
   👋 Hello~! I'm sehigh
 </h1>
-<p style = "font-size : 20px" >
+<p style = "font-size : 20px;" >
   Let me introduce myself
 </p>
 
