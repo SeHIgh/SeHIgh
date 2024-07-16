@@ -18,14 +18,15 @@ You can click the Preview link to take a look at your changes.
 <p>Thank you.🫶</p>
 --->
 
-# About Me
+# 👋 Hello~! I'm sehigh
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
 
+### Let me introduce myself
+
 ## 🏆 My Goal
-<p style="font-size: 18px; line-height: 1.6; color: #333;">
-    I am a University student aiming to become a <strong>✦FULL-STACK✧</strong> Developer.
-</p>
+### I am a University student aiming to become a <strong>✦FULL-STACK✧</strong> Developer.
+
 
 ## ⚙️ My Skills
 ### 💻 CODE
