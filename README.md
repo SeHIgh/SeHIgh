@@ -61,4 +61,5 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-[![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=lightblue)](https://github.com/SeHIgh/github-readme-stats)
+[![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/SeHIgh/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=dark)
