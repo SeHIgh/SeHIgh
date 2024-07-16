@@ -64,23 +64,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### About Me
-<p>
-    I find joy in helping others and bringing happiness to them.
-</p>
 
 ### Contact
-<p>
-    You can reach me : (sehi0119@naver.com)
-</p>
-
-<p>
-    Thank you.
-</p>
+[<img src="https://img.shields.io/badge/Naver-03C360?style=for-the-badge&logo=naver&logoColor=white"/>](sehi0119@naver.com)
 
 </div>
 
-### Git Stats
-[![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=graywhite)](https://github.com/SeHIgh/github-readme-stats)
-### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=graywhite)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=graywhite)  [![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&hide=contribs,prs&show_icons=true&theme=graywhite)](https://github.com/SeHIgh/github-readme-stats)
+
