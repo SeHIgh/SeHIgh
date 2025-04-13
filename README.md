@@ -67,10 +67,10 @@
 
 ## 📈 GitHub 통계
 
-<a href="https://github.com/SeHIgh/github-readme-stats">
+<a href="https://github.com/SeHIgh">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SeHIgh&show_icons=true&theme=holi&locale=kr&hide_border=true&bg_color=C9D9E7&text_color=5580A1&title_color=6ca2cc&icon_color=6ca2cc&border_radius=12" />
 </a>
 
-<a href="https://github.com/SeHIgh/convoychat">
+<a href="https://github.com/SeHIgh">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeHIgh&layout=compact&langs_count=8&show_icons=true&theme=holi&locale=kr&hide_border=true&bg_color=C9D9E7&text_color=5580A1&title_color=6ca2cc&icon_color=6ca2cc&border_radius=12" />
 </a>
