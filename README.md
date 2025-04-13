@@ -2,7 +2,7 @@
 ![SeHi_Banner_Blue_BG](https://github.com/user-attachments/assets/e60f956e-5fae-4999-91f3-0fc6f275fb69)
 
 <h1 align="center">👋 안녕하세요, SeHIgh입니다!</h1>
-<p align="center">🚀 <strong>✦풀 스택✧</strong> 웹 개발자를 꿈꾸는 컴퓨터공학도</p>
+<h4 align="center">🚀 <strong>✦풀 스택✧</strong> 웹 개발자를 꿈꾸는 컴퓨터공학도</h4>
 
 ---
 
