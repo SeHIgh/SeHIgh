@@ -2,7 +2,7 @@
 ![SeHi_Banner_Blue_BG](https://github.com/user-attachments/assets/e60f956e-5fae-4999-91f3-0fc6f275fb69)
 
 <h1 align="center">👋 안녕하세요, SeHIgh입니다!</h1>
-<p align="center">🚀 <strong>✦풀 스택✧</strong> 개발자를 꿈꾸는 컴퓨터공학도</p>
+<p align="center">🚀 <strong>✦풀 스택✧</strong> 웹 개발자를 꿈꾸는 컴퓨터공학도</p>
 
 ---
 
@@ -67,7 +67,11 @@
 
 ## 📈 GitHub 통계
 
-![SeHIgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeHIgh&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHIgh&layout=compact&theme=default)
+<a href="https://github.com/SeHIgh/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SeHIgh&show_icons=true&theme=holi&locale=kr&hide_border=true&bg_color=C9D9E7&text_color=5580A1&title_color=6ca2cc&icon_color=6ca2cc&border_radius=18" />
+</a>
+<a href="https://github.com/SeHIgh/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeHIgh&layout=compact&langs_count=8&show_icons=true&theme=holi&locale=kr&hide_border=true&bg_color=C9D9E7&text_color=5580A1&title_color=6ca2cc&icon_color=6ca2cc&border_radius=18" />
+</a>
 
 ---
